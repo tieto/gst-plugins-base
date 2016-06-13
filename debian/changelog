@@ -1,3 +1,11 @@
+gst-plugins-base1.0 (1.4.4-2+sipe1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Build with sipe-collab patches:
+    - ximagesink: generate reconfigure on window handle change
+
+ -- Jakub Adam <jakub.adam@ktknet.cz>  Mon, 13 Jun 2016 11:48:47 +0200
+
 gst-plugins-base1.0 (1.4.4-2) unstable; urgency=medium
 
   * Upload to unstable.
